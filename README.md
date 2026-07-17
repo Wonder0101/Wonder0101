@@ -286,7 +286,6 @@ CNN image classification system detecting plant diseases (Yellow Leaf Curl, Bact
 <!-- What I'm Up To -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="30" /> &nbsp;What I'm Working On
 
-- 🔭 &nbsp;Building **automated data pipelines** and ETL systems at UNH Admissions
 - 🌱 &nbsp;Deepening knowledge in **System Design** and **Distributed Systems**
 - 🤖 &nbsp;Exploring **AI Agent architectures** — ReAct, RAG, MCP, multi-agent orchestration
 - 🎯 &nbsp;Preparing for **SWE roles** at top tech companies
