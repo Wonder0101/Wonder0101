@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/simran-choudhary-4804571a2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
-  <a href="mailto:choudharysimran2709@gmail.com">
+  <a href="mailto:choudharysimran283@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/Wonder0101">
@@ -38,9 +38,9 @@ class SimranChoudhary:
     
     def __init__(self):
         self.name        = "Simran Choudhary"
-        self.role        = "Software Engineer"
+        self.role        = "Python Developer"
         self.location    = "West Haven, CT 🇺🇸"
-        self.education   = "M.S. Computer Science @ University of New Haven (GPA: 3.81)"
+        self.education   = "M.S. Computer Science @ University of New Haven (GPA: 3.83)"
         self.languages   = ["English", "Hindi"]
         
     def current_work(self):
