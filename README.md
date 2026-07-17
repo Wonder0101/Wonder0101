@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Simran%20Choudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Simran%20Choudhary&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Python%20Developer&descSize=18&descAlignY=55&descColor=58a6ff" width="100%"/>
 
 </div>
 
@@ -45,7 +45,6 @@ class SimranChoudhary:
         
     def current_work(self):
         return {
-            "🔧 Building":    "Automated data pipelines & ETL systems at UNH Admissions",
             "🧠 Learning":    "System Design, Distributed Systems, MLOps",
             "🎯 Targeting":   "SWE roles at top tech companies",
             "💡 Exploring":   "AI Agent architectures, RAG, MCP protocols"
